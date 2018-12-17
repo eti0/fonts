@@ -1,12 +1,3 @@
 patched fonts
 
-### euphon
-![euphon](previews/euphon.png)
-
-
-### vanilla
-![vanilla](previews/vanilla.png)
-
-
-### yakuza
-![yakuza](previews/yakuza.png)
+disclaimer: these are just fonts published with some personal mods, don't think about it too much.
